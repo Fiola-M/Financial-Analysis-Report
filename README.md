@@ -89,3 +89,9 @@ Diversify customer segments to reduce dependence on government sales.
 Focus marketing and expansion efforts on high-performing countries.
 Analyze causes of monthly profit decline and implement corrective actions.
 Increase engagement with Small Business and Channel Partner segments to create additional revenue streams.
+
+**Tools Used**:
+- Power BI
+- Data Visualization
+- Financial Analysis
+- Data Storytelling
