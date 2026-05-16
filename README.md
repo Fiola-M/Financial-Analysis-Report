@@ -1,5 +1,5 @@
 # Financial-Analysis-Report
-Dashboard visualization of a financial report
+This project analyzes financial performance across different countries and customer segments using Power BI. The dashboard provides insights into profit, sales, units sold, and cost of goods sold (COGS) to support business decision-making.
 
 (This project was created using the Microsoft Power BI sample financial dataset.)
 
