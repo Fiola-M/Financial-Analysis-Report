@@ -51,7 +51,7 @@ The Small Business segment has the lowest share, indicating weaker market penetr
 **Business Implication:**
 The company’s sales volume is strongly dependent on government-related demand. Diversifying sales across other customer segments could reduce risk and improve long-term stability.
 
-**Monthly Profit Trend**
+**Monthly Profit Trend**:
 The Profit by Month Name line chart reveals a declining profit trend over time.
 
 Insights:
@@ -62,15 +62,15 @@ Increasing operational costs
 Reduced sales performance
 Market saturation
 Pricing inefficiencies
-Business Implication:
 
+Business Implication:
 The business should investigate the reasons behind declining monthly profitability and implement strategies such as:
 Seasonal marketing campaigns
 Cost reduction initiatives
 Customer retention strategies
 Dynamic pricing models
 
-**Overall Dashboard Conclusions**
+**Overall Dashboard Conclusions**:
 The company is financially profitable, generating over 16M in profit.
 Revenue generation is strong, but high operational costs reduce profitability margins.
 Government customers are the primary driver of both sales and units sold.
@@ -78,7 +78,7 @@ Profitability varies significantly across countries, indicating unequal market p
 Monthly profits are declining, which could become a long-term concern if not addressed.
 Smaller customer segments present growth opportunities for future expansion and diversification.
 
-**Recommendations**
+**Recommendations**:
 Reduce operational and production costs to improve profit margins.
 Diversify customer segments to reduce dependence on government sales.
 Focus marketing and expansion efforts on high-performing countries.
