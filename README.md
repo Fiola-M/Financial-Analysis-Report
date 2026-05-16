@@ -9,8 +9,11 @@ This dashboard provides a comprehensive overview of company performance across d
 **Key Financial Performance**<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/a9e8be48-3b39-40e7-96ed-1d03053829d8" />
 
 Total Profit: 16.89M
+
 Total Units Sold: 1.13M
+
 Total Sales Revenue: 118.73M
+
 Total COGS: 101.83M
 
 The business generated a strong revenue of 118.73M, while maintaining a profit of 16.89M, indicating a positive overall financial performance. However, the relatively high COGS compared to sales suggests that operational or production costs consume a significant portion of revenue, leaving a moderate profit margin.
