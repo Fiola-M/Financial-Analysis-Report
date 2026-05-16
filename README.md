@@ -1,5 +1,6 @@
 # Financial-Analysis-Report
 Dashboard visualization of a financial report
+(This project was created using the Microsoft Power BI sample financial dataset.)
 
 Financial Analysis Dashboard Insights
 This dashboard provides a comprehensive overview of company performance across different countries, customer segments, and time periods. The analysis focuses on key financial metrics such as Profit, Sales, Units Sold, and Cost of Goods Sold (COGS) to evaluate overall business performance and profitability trends.
