@@ -1,8 +1,9 @@
 # Financial-Analysis-Report
 Dashboard visualization of a financial report
+
 (This project was created using the Microsoft Power BI sample financial dataset.)
 
-Financial Analysis Dashboard Insights
+Financial Analysis Dashboard Insights:
 This dashboard provides a comprehensive overview of company performance across different countries, customer segments, and time periods. The analysis focuses on key financial metrics such as Profit, Sales, Units Sold, and Cost of Goods Sold (COGS) to evaluate overall business performance and profitability trends.
 
 **Key Financial Performance**<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/a9e8be48-3b39-40e7-96ed-1d03053829d8" />
@@ -14,7 +15,7 @@ Total COGS: 101.83M
 
 The business generated a strong revenue of 118.73M, while maintaining a profit of 16.89M, indicating a positive overall financial performance. However, the relatively high COGS compared to sales suggests that operational or production costs consume a significant portion of revenue, leaving a moderate profit margin.
 
-**Profitability Analysis by Country**
+**Profitability Analysis by Country**:
 The Profit by Country chart highlights the countries contributing the highest profits.
 
 Insights:
@@ -26,10 +27,10 @@ Improved marketing efforts
 Cost optimization
 Increased customer acquisition strategies
 
-**Business Implication:**
+**Business Implication**:
 The company should prioritize investment and expansion in high-performing countries while evaluating why some regions underperform.
 
-**Sales Performance by Segmen**t
+**Sales Performance by Segment**:
 The Sales by Segment chart compares sales across customer segments.
 
 Insights:
@@ -37,11 +38,11 @@ The Government segment records the highest sales contribution, making it the com
 The Midmarket and Enterprise segments also contribute significantly to overall sales.
 Small Business and Channel Partners contribute the least revenue.
 
-**Business Implication:**
+**Business Implication**:
 The business heavily relies on larger institutional or government-based customers.
 There is an opportunity to grow underperforming segments through targeted promotions, partnerships, and tailored products/services.
 
-**Units Sold Distribution**
+**Units Sold Distribution**:
 The Units Sold by Segment pie chart shows how products are distributed among customer segments.
 
 Insights:
@@ -49,7 +50,7 @@ The Government segment accounts for approximately 41.81% of total units sold, do
 Other segments such as Midmarket, Enterprise, and Channel Partners share relatively balanced portions.
 The Small Business segment has the lowest share, indicating weaker market penetration.
 
-**Business Implication:**
+**Business Implication**:
 The company’s sales volume is strongly dependent on government-related demand. Diversifying sales across other customer segments could reduce risk and improve long-term stability.
 
 **Monthly Profit Trend**:
